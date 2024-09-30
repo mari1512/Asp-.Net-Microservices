@@ -1,0 +1,6 @@
+@Mongo.Services.Coupon_HostAddress = http://localhost:5118
+
+GET {{Mongo.Services.Coupon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
